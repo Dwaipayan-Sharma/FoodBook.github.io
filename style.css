@@ -30,3 +30,6 @@ footer h5{
 button{
 	margin-right: 7px;
 }
+body{
+	height: 100vh;
+}
