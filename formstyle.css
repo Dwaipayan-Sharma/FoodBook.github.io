@@ -5,18 +5,17 @@ body{
 
 input{
 	text-align: center;
-	width: 25vw;
+	width: 40vw;
 	height: 5vh;
 	font-size: 20px;
 }
 
 #myButton{
 	background-color: #6dd26d;
-	width: 8vw;
-	height: 7vh;
+	
 	font-size: 15px;
-	box-shadow: 8px 3px 3px black;
-	border-radius: 5px;
+	box-shadow: 5px 3px 3px black;
+	border-radius: 3px;
 }
 
 #submit{
